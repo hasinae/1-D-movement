@@ -4,7 +4,6 @@
 //
 // 1D Movement
 //
-// An example of putting sprites on the screen using Phaser
 // 
 // Art assets from Kenny Assets "Platformer Pack Redux" set:
 // https://kenney.nl/assets/platformer-pack-redux 
